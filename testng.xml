@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/IDEA_workspace/MobileAppiumTest/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java"><classes><class name="guru.continuouslearningacademy.EmulatorWeb"><methods><include name="browserTest"/></methods></class></classes></test></suite>

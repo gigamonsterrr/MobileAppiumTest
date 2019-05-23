@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="D:/IDEA_workspace/MobileAppiumTest/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java(failed)" verbose="0">
+    <classes>
+      <class name="guru.continuouslearningacademy.EmulatorWeb">
+        <methods>
+          <include name="SetupTest"/>
+          <include name="ShutdownTest"/>
+          <include name="browserTest"/>
+        </methods>
+      </class> <!-- guru.continuouslearningacademy.EmulatorWeb -->
+    </classes>
+  </test> <!-- D:/IDEA_workspace/MobileAppiumTest/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

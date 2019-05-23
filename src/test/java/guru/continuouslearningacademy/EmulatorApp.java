@@ -15,14 +15,13 @@ import java.net.URL;
 
 import static com.codeborne.selenide.Selenide.$;
 
-public class Emulator {
+public class EmulatorApp {
     public AndroidDriver driver;
 
     @BeforeSuite
     public void SetupTest() throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel_2_XL_API_28");
-        //capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Nexus_5_API_24");
+        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel_3_XL_API_28");
         //capabilities.setCapability("deviceName", "LGG5");
         //capabilities.setCapability("udid", "LGH85031de544d");
         //capabilities.setCapability(MobileCapabilityType.APP, "D:\\IDEA\\AutomationTesting\\7.2 ApiDemos-debug.apk");
