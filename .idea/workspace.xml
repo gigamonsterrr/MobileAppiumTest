@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f813c6-f5a8-4acc-ba9c-10912c43edae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/Emulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-05-23T15-04-58_600.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__IDEA_workspace_MobileAppiumTest_src_test_java_guru_continuouslearningacademy_EmulatorWeb.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__IDEA_workspace_MobileAppiumTest_src_test_java_guru_continuouslearningacademy_EmulatorWeb.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__IDEA_workspace_MobileAppiumTest_src_test_java_guru_continuouslearningacademy_EmulatorWeb.java.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/D__IDEA_workspace_MobileAppiumTest_src_test_java_guru_continuouslearningacademy_EmulatorWeb.java.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-guru.continuouslearningacademy.EmulatorWeb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-guru.continuouslearningacademy.EmulatorWeb.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/D__IDEA_workspace_MobileAppiumTest_src_test_java_guru_continuouslearningacademy_EmulatorWeb.java.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/D__IDEA_workspace_MobileAppiumTest_src_test_java_guru_continuouslearningacademy_EmulatorWeb.java.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/screenshots/1558613119990.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,19 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="57" column="5" selection-start-line="54" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+            <state relative-caret-position="360">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -44,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            <state relative-caret-position="745">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,10 +61,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/RealDevice.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.2.3/selenide-5.2.3.jar!/com/codeborne/selenide/SelenideElement.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-240">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="229">
+              <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,6 +90,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chromedriver</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -82,8 +103,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/RealDevice.java" />
         <option value="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/Emulator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java" />
         <option value="$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java" />
       </list>
     </option>
@@ -96,8 +118,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-62" />
-    <option name="y" value="209" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1186" />
   </component>
@@ -108,6 +130,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,7 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.EmulatorWeb.browserTest">
+  <component name="RunManager" selected="TestNG.EmulatorWeb">
     <configuration name="EmulatorApp" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileAppiumTest" />
       <extension name="coverage">
@@ -184,6 +206,42 @@
       <option name="PACKAGE_NAME" value="guru.continuouslearningacademy" />
       <option name="MAIN_CLASS_NAME" value="guru.continuouslearningacademy.EmulatorApp" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmulatorApp.SendMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.continuouslearningacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.continuouslearningacademy" />
+      <option name="MAIN_CLASS_NAME" value="guru.continuouslearningacademy.EmulatorApp" />
+      <option name="METHOD_NAME" value="SendMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmulatorApp.stopAppium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppiumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.continuouslearningacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.continuouslearningacademy" />
+      <option name="MAIN_CLASS_NAME" value="guru.continuouslearningacademy.EmulatorApp" />
+      <option name="METHOD_NAME" value="stopAppium" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -207,7 +265,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmulatorWeb.browser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EmulatorWeb.browserTestSelenide" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MobileAppiumTest" />
       <extension name="coverage">
         <pattern>
@@ -217,43 +275,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="guru.continuouslearningacademy" />
       <option name="MAIN_CLASS_NAME" value="guru.continuouslearningacademy.EmulatorWeb" />
-      <option name="METHOD_NAME" value="browser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmulatorWeb.browserTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MobileAppiumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guru.continuouslearningacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guru.continuouslearningacademy" />
-      <option name="MAIN_CLASS_NAME" value="guru.continuouslearningacademy.EmulatorWeb" />
-      <option name="METHOD_NAME" value="browserTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmulatorWeb.tearDown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MobileAppiumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guru.continuouslearningacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guru.continuouslearningacademy" />
-      <option name="MAIN_CLASS_NAME" value="guru.continuouslearningacademy.EmulatorWeb" />
-      <option name="METHOD_NAME" value="tearDown" />
+      <option name="METHOD_NAME" value="browserTestSelenide" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -263,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.EmulatorWeb.browserTest" />
         <item itemvalue="TestNG.EmulatorWeb" />
-        <item itemvalue="TestNG.EmulatorWeb.browser" />
-        <item itemvalue="TestNG.EmulatorWeb.tearDown" />
+        <item itemvalue="TestNG.EmulatorWeb.browserTestSelenide" />
         <item itemvalue="TestNG.EmulatorApp" />
+        <item itemvalue="TestNG.EmulatorApp.SendMessage" />
+        <item itemvalue="TestNG.EmulatorApp.stopAppium" />
       </list>
     </recent_temporary>
   </component>
@@ -285,35 +307,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EmulatorWeb_browser - 2019.05.23 at 13h 18m 57s.xml">
-      <configuration name="EmulatorWeb.browser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browser - 2019.05.23 at 13h 19m 27s.xml">
-      <configuration name="EmulatorWeb.browser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browser - 2019.05.23 at 13h 20m 07s.xml">
-      <configuration name="EmulatorWeb.browser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browser - 2019.05.23 at 13h 20m 59s.xml">
-      <configuration name="EmulatorWeb.browser" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browserTest - 2019.05.23 at 13h 26m 40s.xml">
-      <configuration name="EmulatorWeb.browserTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browserTest - 2019.05.23 at 13h 28m 08s.xml">
-      <configuration name="EmulatorWeb.browserTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browserTest - 2019.05.23 at 13h 29m 04s.xml">
-      <configuration name="EmulatorWeb.browserTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb_browserTest - 2019.05.23 at 13h 29m 39s.xml">
-      <configuration name="EmulatorWeb.browserTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EmulatorWeb - 2019.05.23 at 15h 03m 16s.xml">
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 29m 20s.xml">
       <configuration name="EmulatorWeb" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmulatorWeb_browserTest - 2019.05.23 at 16h 46m 45s.xml">
-      <configuration name="EmulatorWeb.browserTest" configurationId="TestNG" />
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 32m 41s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 33m 48s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 35m 04s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 35m 49s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 37m 17s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 37m 43s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 38m 23s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 39m 18s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EmulatorWeb - 2019.06.13 at 14h 40m 45s.xml">
+      <configuration name="EmulatorWeb" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -328,7 +350,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37739873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -337,12 +359,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953465" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32193732" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32953465" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32953465" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32953465" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32953465" />
@@ -354,7 +376,37 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="8" side_tool="true" weight="0.3295302" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37313432" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32193732" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953465" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32953465" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32953465" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32953465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="8" side_tool="true" weight="0.3295302" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -362,20 +414,7 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.2.3/selenide-5.2.3.jar!/com/codeborne/selenide/Selenide.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="111" column="34" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="491" column="11" selection-start-line="491" selection-start-column="11" selection-end-line="491" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/net/URL.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0.jar!/org/openqa/selenium/WebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -383,34 +422,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="57" column="5" selection-start-line="54" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="152">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.2.3/selenide-5.2.3.jar!/com/codeborne/selenide/Selenide.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="297" column="23" selection-start-line="297" selection-start-column="23" selection-end-line="297" selection-end-column="23" />
+          <folding>
+            <element signature="e#10781#10782#0" expanded="true" />
+            <element signature="e#10847#10848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0.jar!/io/appium/java_client/android/AndroidDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0.jar!/io/appium/java_client/service/local/AppiumDriverLocalService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <element signature="e#2789#2790#0" expanded="true" />
+            <element signature="e#2852#2853#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        <state relative-caret-position="140">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/RealDevice.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0.jar!/io/appium/java_client/remote/AutomationName.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="160">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0.jar!/io/appium/java_client/android/nativekey/AndroidKey.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7360">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#5661#5662#0" expanded="true" />
+            <element signature="e#5693#5694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.2.3/selenide-5.2.3.jar!/com/codeborne/selenide/conditions/Visible.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.2.3/selenide-5.2.3.jar!/com/codeborne/selenide/Condition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/RealDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/5.2.3/selenide-5.2.3.jar!/com/codeborne/selenide/SelenideElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.0.0/java-client-7.0.0.jar!/io/appium/java_client/remote/MobileCapabilityType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/guru/continuouslearningacademy/EmulatorWeb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        <state relative-caret-position="745">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

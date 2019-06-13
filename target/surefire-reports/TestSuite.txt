@@ -1,10 +1,17 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 82.191 s <<< FAILURE! - in TestSuite
-browserTest(guru.continuouslearningacademy.EmulatorWeb)  Time elapsed: 71.907 s  <<< FAILURE!
-com.codeborne.selenide.ex.ElementShould: 
-Element should be visible {#cookiebar}
-Element: '<div id="cookiebar" displayed:false></div>'
-	at guru.continuouslearningacademy.EmulatorWeb.browserTest(EmulatorWeb.java:65)
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.887 s <<< FAILURE! - in TestSuite
+browserTest(guru.continuouslearningacademy.EmulatorWeb)  Time elapsed: 0.261 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Error attempting to start URI. Original error: Error: Starting: Intent { act=android.intent.action.VIEW dat=http://dev.haldexcommerce.ddcloud.se/... pkg=com.android.calculator2 }
+Error: Activity not started, unable to resolve Intent { act=android.intent.action.VIEW dat=http://dev.haldexcommerce.ddcloud.se/... flg=0x10000000 pkg=com.android.calculator2 }
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP_SKELNIK', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: io.appium.java_client.android.AndroidDriver
+selenide.url: http://dev.haldexcommerce.ddcloud.se
+Capabilities {appActivity: com.android.calculator2.Cal..., appPackage: com.android.calculator2, databaseEnabled: false, desired: {appActivity: com.android.calculator2.Cal..., appPackage: com.android.calculator2, deviceName: Pixel_3_XL_API_28, noReset: true, platformName: android}, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenSize: 1440x2960, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, platform: LINUX, platformName: Android, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+selenide.baseUrl: http://localhost:8080
+Session ID: 0a5c4423-8364-43af-ad0c-777acb091213
+	at guru.continuouslearningacademy.EmulatorWeb.browserTest(EmulatorWeb.java:60)
 
